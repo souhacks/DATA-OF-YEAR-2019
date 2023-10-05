@@ -1,4 +1,4 @@
-# EDA 
+# EDA: Mobile gadgets & Accessories store data analysis
 DATA-OF-YEAR-2019
 It consists data cleaning, extraction, visualization.
 
